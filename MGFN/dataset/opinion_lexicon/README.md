@@ -1,0 +1,1 @@
+use SenticNet6(Cambria et al., 2020) as opinion lexicon
